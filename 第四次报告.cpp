@@ -196,6 +196,8 @@ using namespace std;
 //    cout << "来看看第一句话的前四个字符：" << str1[0] << str1[1] << str1[2] << str1[3]<<endl;
 //    return 0;
 //}
+
+
 //4.3
 
 //template<typename T>
